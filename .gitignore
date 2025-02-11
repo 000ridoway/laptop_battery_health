@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+*.pyd
+*.dll
+*.exe
+*.o
+*.so
+build/
+dist/
+*.egg-info/
+.DS_Store
+src/battery_monitor/data/resources_rc.py
